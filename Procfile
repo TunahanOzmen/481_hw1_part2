@@ -1,1 +1,1 @@
-web: java -jar build\libs\odevPart2-all.jar
+web: java -jar build/libs/odevPart2-all.jar
